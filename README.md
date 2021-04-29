@@ -1,6 +1,9 @@
 # Why fork?
 A simplified and streamlined version for my own use.
 
+Issues I plan to fix
+(pending)
+
 # PetaPoco.DBEntityGenerator
 
 [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) has stopped T4 template support since Version 6.
